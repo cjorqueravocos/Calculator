@@ -16,7 +16,11 @@ h1 {
     margin: 20px auto;
 }
 
-
+.calculator {
+    margin: 20px auto;
+    display: flex; 
+    justify-content: center;
+}
 
 .container {
     width: 300px;
