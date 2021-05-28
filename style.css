@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background: #1C3144;
+    color: #000;
+}
+
+.container {
+    width: 300px;
+    margin: 20px;
+    background: #CADBC0;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+form p {
+    text-align: center;
+    margin: 20px auto;
+    font-size: 30px;
+}
+
+input[type="text"]{
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    border-radius: 3px;
+}
+
+form .btn {
+    width: 100%;
+    background: rgb(73, 104, 69);
+    color: #fff;
+    padding: 20px;
+    font-size: 15px;
+    margin: 20px auto;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+}
