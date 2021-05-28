@@ -10,9 +10,17 @@ body {
     color: #000;
 }
 
+h1 {
+    color: #fff;
+    text-align: center;
+    margin: 20px auto;
+}
+
+
+
 .container {
     width: 300px;
-    margin: 20px;
+    margin: 100px auto;
     background: #CADBC0;
     padding: 20px;
     border-radius: 5px;
