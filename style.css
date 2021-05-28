@@ -16,12 +16,15 @@ body {
     background: #CADBC0;
     padding: 20px;
     border-radius: 5px;
+    display: flex;
+    justify-content: center;
 }
 
 form p {
     text-align: center;
     margin: 20px auto;
     font-size: 30px;
+    color: rgb(73, 104, 69);
 }
 
 input[type="text"]{
